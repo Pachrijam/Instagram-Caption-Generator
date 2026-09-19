@@ -1,7 +1,8 @@
 # Personal Website Workshop
 September 19th, 2026
 ```
-This project was made to improve my skills in HTML/CSS and this project also serves as my introduction to JS and working with the Gemini API
+This project was made to improve my skills in HTML/CSS and
+this project also serves as my introduction to JS and working with the Gemini API
 ```
 
 ## Skills Learned
