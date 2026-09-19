@@ -11,3 +11,41 @@ h1 {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#dark-mode-btn {
+    margin-top: 30px;
+    background-color: 333333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.dark-mode {
+    background-color: 1f1f1f;
+    color: white;
+}
+
+.dark-mode .skill-group{
+    background-color: 2d2d2d;
+    border-color: 555555;
+}
+
+.dark-mode .group-header{
+    color: white;
+    border-color: grey;
+}
+
+
+.dark-mode .dark-mode-btn{
+    background-color: white;
+    color: 222222;
+}
+
