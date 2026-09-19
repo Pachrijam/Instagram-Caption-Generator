@@ -1,4 +1,4 @@
-# Personal Website Workshop
+# HTML/CSS Website Workshop
 September 19th, 2026
 ```
 This project was made to improve my skills in HTML/CSS and
